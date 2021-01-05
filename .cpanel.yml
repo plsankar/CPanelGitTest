@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/actressp/public_html/CPanelGitTest
-    - /bin/cp -R / $DEPLOYPATH
